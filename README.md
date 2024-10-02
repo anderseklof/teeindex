@@ -23,7 +23,7 @@ In alphabetical order by brand.
 
 - Numbers are in metric system.
 - Price is list price in dollars, without discounts.
-- Weight is in gram/m2.
+- Weight is fabric in gram/m2.
 - MFG: Manufactured in.
 - Wash rec: Washing recommendations from the manufacturer.
 - Wash act: Actual washing temperature.
@@ -39,23 +39,26 @@ In alphabetical order by brand.
 
 ### T-shirts
 
-| Brand and name                | Size | Art. no.  | Fabric                  | Weight | MFG        | Wash rec. | Wash act. | Price | Color | Tagless | Notes |
-| ----------------------------- | ---- | --------- | ----------------------- | ------ | ---------- | --------- | --------- | ----- | ----- | ------- | ----- |
-| Blåkläder Workwear            | L    | 3300-1030 | 100% cotton             | 180    | Bangladesh | 60        | 40        | $17   | Black | No      | -     |
-| Swetees Heritage tailored fit | L    | Version 1 | 95% cotton, 5% elastane | 210    | Turkey     | 30        | 40        | $29   | Black | Yes     | -     |
+| Brand and name                | Size | Art. no.   | Fabric                  | Weight | MFG        | Wash rec. | Wash act. | Price | Color | Tagless | Notes             |
+| ----------------------------- | ---- | ---------- | ----------------------- | ------ | ---------- | --------- | --------- | ----- | ----- | ------- | ----------------- |
+| Blåkläder Workwear            | L    | 3300-1030  | 100% cotton             | 180    | Bangladesh | 60        | 40        | $17   | Black | No      | -                 |
+| Fristads Acode 1911           | L    | 100239-940 | 100% cotton             | 150    | Bangladesh | 60        | 40        | $15   | Black | No      | No seams in body. |
+| Swetees Heritage tailored fit | L    | Version 1  | 95% cotton, 5% elastane | 210    | Turkey     | 30        | 40        | $29   | Black | Yes     | -                 |
 
 ### Measurements
 
-| Brand and name                | A    | B   | C   | D   | E    | F   | G   | A 1 | B 1  | C 1 | D 1  | E 1  | F 1 | G 1  | A 5 | B 5 | C 5 | D 5 | E 5 | F 5 | G 5 | Notes |
-| ----------------------------- | ---- | --- | --- | --- | ---- | --- | --- | --- | ---- | --- | ---- | ---- | --- | ---- | --- | --- | --- | --- | --- | --- | --- | ----- |
-| Blåkläder Workwear            | 55.5 | 55  | 75  | 16  | 17   | 22  | 19  | 53  | 52.5 | 74  | 14.5 | 17.5 | 21  | 18   | -   | -   | -   | -   | -   | -   | -   | -     |
-| Swetees Heritage tailored fit | 57   | 55  | 74  | 18  | 14.5 | 23  | 19  | 57  | 56   | 73  | 17.5 | 14.5 | 22  | 18.5 | -   | -   | -   | -   | -   | -   | -   | -     |
+| Brand and name                | A    | B   | C   | D    | E    | F   | G   | A 1  | B 1  | C 1 | D 1  | E 1  | F 1  | G 1  | A 5 | B 5 | C 5 | D 5 | E 5 | F 5 | G 5 | Notes |
+| ----------------------------- | ---- | --- | --- | ---- | ---- | --- | --- | ---- | ---- | --- | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- | ----- |
+| Blåkläder Workwear            | 55.5 | 55  | 75  | 16   | 17   | 22  | 19  | 53   | 52.5 | 74  | 14.5 | 17.5 | 21   | 18   | -   | -   | -   | -   | -   | -   | -   | -     |
+| Fristads Acode 1911           | 56.5 | 57  | 76  | 14.5 | 18   | 21  | 21  | 54.5 | 56   | 76  | 17   | 17.5 | 20.5 | 19.5 | -   | -   | -   | -   | -   | -   | -   | -     |
+| Swetees Heritage tailored fit | 57   | 55  | 74  | 18   | 14.5 | 23  | 19  | 57   | 56   | 73  | 17.5 | 14.5 | 22   | 18.5 | -   | -   | -   | -   | -   | -   | -   | -     |
 
 ### Form
 
 | Brand and name                | Body | Body 1 | Body 5 | Sleeve | Sleeve 1 | Sleeve 5 | Notes |
 | ----------------------------- | ---- | ------ | ------ | ------ | -------- | -------- | ----- |
 | Blåkläder Workwear            | 0    | 0      | -      | 0      | 0        | -        | -     |
+| Fristads Acode 1911           | 0    | 0      | -      | 0      | 0        | -        | -     |
 | Swetees Heritage tailored fit | 0    | 0      | -      | 0      | 1        | -        | -     |
 
 ## Score
