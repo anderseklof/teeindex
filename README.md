@@ -45,6 +45,7 @@ In alphabetical order by brand.
 | Fristads Acode 1911           | L    | 100239-940 | 100% cotton               | 150    | Bangladesh | 60        | 40        | $15   | Black | No      | No seams in body. |
 | ID Identity Interlock         | L    | 517        | 100% cotton               | 215    | Bangladesh | 40        | 40        | $21   | Black | No      | -                 |
 | ID Identity PRO Wear          | L    | 300        | 60% cotton, 40% polyester | 215    | Bangladesh | 60        | 40        | $19   | Black | No      | -                 |
+| Stanley/Stella Rocker         | L    | STTU758    | 100% cotton               | 150    | Bangladesh | 30        | 40        | $8    | Black | No      | -                 |
 | Swetees Heritage tailored fit | L    | Version 1  | 95% cotton, 5% elastane   | 210    | Turkey     | 30        | 40        | $29   | Black | Yes     | -                 |
 
 ### Measurements
@@ -55,6 +56,7 @@ In alphabetical order by brand.
 | Fristads Acode 1911           | 56.5 | 57   | 76   | 14.5 | 18   | 21   | 21  | 54.5 | 56   | 76   | 17   | 17.5 | 20.5 | 19.5 | -   | -   | -   | -   | -   | -   | -   | -     |
 | ID Identity Interlock         | 53.5 | 52.5 | 77.5 | 14   | 16.5 | 22   | 17  | 54   | 51   | 76.5 | 13.5 | 15   | 21   | 16.5 | -   | -   | -   | -   | -   | -   | -   | -     |
 | ID Identity PRO Wear          | 55   | 56   | 74   | 16   | 17.5 | 20.5 | 18  | 55   | 54.5 | 76   | 17   | 18   | 20   | 18   | -   | -   | -   | -   | -   | -   | -   | -     |
+| Stanley/Stella Rocker         | 56.5 | 56.5 | 74   | 17   | 16.5 | 21.5 | 17  | -    | -    | -    | -    | -    | -    | -    | -   | -   | -   | -   | -   | -   | -   | -     |
 | Swetees Heritage tailored fit | 57   | 55   | 74   | 18   | 14.5 | 23   | 19  | 57   | 56   | 73   | 17.5 | 14.5 | 22   | 18.5 | -   | -   | -   | -   | -   | -   | -   | -     |
 
 ### Shape and color
@@ -65,6 +67,7 @@ In alphabetical order by brand.
 | Fristads Acode 1911           | 0    | 0      | -      | 0    | 1      | -      | 0      | 0        | -        | 0       | -       | -     |
 | ID Identity Interlock         | 0    | 0      | -      | 0    | 0      | -      | 0      | 0        | -        | 0       | -       | -     |
 | ID Identity PRO Wear          | 0    | 0      | -      | 0    | 0      | -      | 0      | 0        | -        | 0       | -       | -     |
+| Stanley/Stella Rocker         | 0    | -      | -      | 0    | -      | -      | 0      | -        | -        | -       | -       | -     |
 | Swetees Heritage tailored fit | 0    | 0      | -      | 0    | 0      | -      | 0      | 1        | -        | 0       | -       | -     |
 
 ## Score
