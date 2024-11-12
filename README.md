@@ -44,8 +44,8 @@ In alphabetical order by brand.
 | ----------------------------- | ---- | ---------- | ------------------------- | ------ | ---------- | --------- | --------- | ----- | ----- | ------- | ----------------- |
 | Blåkläder Workwear            | L    | 3300-1030  | 100% cotton               | 180    | Bangladesh | 60        | 40        | $17   | Black | No      | -                 |
 | Fristads Acode 1911           | L    | 100239-940 | 100% cotton               | 150    | Bangladesh | 60        | 40        | $15   | Black | No      | No seams in body. |
-| ID Identity Interlock         | L    | 517        | 100% cotton               | 215    | Bangladesh | 40        | 40        | $21   | Black | No      | -                 |
-| ID Identity PRO Wear          | L    | 300        | 60% cotton, 40% polyester | 215    | Bangladesh | 60        | 40        | $19   | Black | No      | -                 |
+| ID Identity Interlock         | L    | 0517       | 100% cotton               | 215    | Bangladesh | 40        | 40        | $21   | Black | No      | -                 |
+| ID Identity PRO Wear          | L    | 0300       | 60% cotton, 40% polyester | 215    | Bangladesh | 60        | 40        | $19   | Black | No      | -                 |
 | Stanley/Stella Rocker         | L    | STTU758    | 100% cotton               | 150    | Bangladesh | 30        | 40        | $8    | Black | No      | -                 |
 | Swetees Heritage tailored fit | L    | Version 1  | 95% cotton, 5% elastane   | 210    | Turkey     | 30        | 40        | $29   | Black | Yes     | -                 |
 
