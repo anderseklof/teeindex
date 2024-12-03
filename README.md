@@ -68,7 +68,7 @@ In alphabetical order by brand.
 | Fristads Acode 1911           | 0    | 0      | -      | 0    | 1      | -      | 0      | 0        | -        | 0       | -       | -     |
 | ID Identity Interlock         | 0    | 0      | -      | 0    | 0      | -      | 0      | 0        | -        | 0       | -       | -     |
 | ID Identity PRO Wear          | 0    | 0      | -      | 0    | 0      | -      | 0      | 0        | -        | 0       | -       | -     |
-| Stanley/Stella Rocker         | 0    | -      | -      | 0    | -      | -      | 0      | -        | -        | -       | -       | -     |
+| Stanley/Stella Rocker         | 0    | 0      | -      | 0    | 0      | -      | 0      | 0        | -        | 0       | -       | -     |
 | Swetees Heritage tailored fit | 0    | 0      | -      | 0    | 0      | -      | 0      | 1        | -        | 0       | -       | -     |
 
 ## Score
