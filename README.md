@@ -33,7 +33,7 @@ In alphabetical order by brand.
   - A-G: New t-shirt. Measure before wearing.
   - A 1-G 1: Washed once. Measure before wearing after first wash.
   - A 5-G 5: Washed five times. Measure before wearing after fifth wash.
-- Shape and color sets a number that describes the amount of twist, skew or length asymmetry in the t-shirt, as well as the amount of color variation between washes. Valid numbers are 0: none, 1: small, 2: large. If one part of the body or sleeve shrinks relative to the other, it's counted as length asymmetry.
+- Shape and color sets a number that describes the amount of twist, skew or length asymmetry in the t-shirt, as well as the amount of color variation between washes. If the t-shirt is longer in the front or in the back, make a note. Valid numbers are 0: none, 1: small, 2: large. If one part of the body or sleeve shrinks relative to the other, it's counted as length asymmetry.
   - Body, neck and sleeve is noted when the t-shirt is brand new.
   - Body 1, neck 1, sleeve 1 and color 1 is noted when the t-shirt has been washed once.
   - Body 5, neck 5, sleeve 5 and color 5 is noted when the t-shirt has been washed five times.
